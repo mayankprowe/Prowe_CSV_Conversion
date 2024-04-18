@@ -1,0 +1,20 @@
+{
+  "EmployeeManagers": [
+    {
+      "UserId": "5dce1a24-0dde-45ed-a902-bf15d010de18",
+      "NewManagerId": "bf0c963f-87c2-4979-a62f-7a2305c027d4",
+      "NewManagerUserId": "bf0c963f-87c2-4979-a62f-7a2305c027d4",
+      "NewManagerNewManagerId": "3fd0dbe0-6519-4837-9b91-06b66248daa0",
+      "OldManagerUserId": "3fd0dbe0-6519-4837-9b91-06b66248daa0",
+      "OldManagerNewManagerId": "43ec08e0-f30d-4a0c-b08f-8f4acbd3a38d"
+    },
+    {
+      "UserId": "5dce1a24-0dde-45ed-a902-bf15d010de18",
+      "NewManagerId": "bf0c963f-87c2-4979-a62f-7a2305c027d4",
+      "NewManagerUserId": "bf0c963f-87c2-4979-a62f-7a2305c027d4",
+      "NewManagerNewManagerId": "76874d62-4aef-423e-b3a0-dca2e75040ee",
+      "OldManagerUserId": "76874d62-4aef-423e-b3a0-dca2e75040ee",
+      "OldManagerNewManagerId": "0ff1c00d-6448-4d43-a39c-d0e7220274a4"
+    }
+  ]
+}
